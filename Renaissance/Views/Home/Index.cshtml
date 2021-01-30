@@ -1,0 +1,97 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>HomePage</title>
+    @Styles.Render("~/Content/css/master.csBs")
+</head>
+<body>
+
+    <div class="container-fluid fixed-top">
+        <div class="row">
+            <div class="col-lg-5 col-xs-12">
+            </div>
+            <div class="col-lg-5 col-xs-12">
+            </div>
+            <div class="col-lg-2 col-xs-12">
+                <input type="button" class="m-2 btn btn-outline-secondary" value="Sign In" onclick="location.href='@Url.Action("SignIn","Home")'" />
+                <input type="button" class="m-2 btn btn-outline-secondary" value="Register" onclick="location.href='@Url.Action("Registration","Registration")'" />
+            </div>
+        </div>
+    </div>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1 class="display-4">Renaissance </h1>
+            <p class="lead">Master key ideas in math, science, and computer science through problem solving..</p>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-3 col-xs-12">
+                <a href="#">
+                    <div class="card shadow-lg">
+                        <img class="card-img-top" src="~/Content/img/math.jpg" alt="">
+                        <div class="card-body">
+                            <h3 class="text-secondary text-center">Mathematics</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-xs-12">
+                <a href="#">
+                    <div class="card shadow-lg">
+                        <img class="card-img-top" src="~/Content/img/astronomy.jpg" alt="">
+                        <div class="card-body">
+                            <h3 class="text-secondary text-center">Astronomy</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-xs-12">
+                <a href="#">
+                    <div class="card shadow-lg">
+                        <img class="card-img-top" src="~/Content/img/physics.jpg" alt="">
+                        <div class="card-body">
+                            <h3 class="text-secondary text-center">Physics</h3>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-lg-3 col-xs-12">
+                <a href="#">
+                    <div class="card shadow-lg">
+                        <img class="card-img-top" src="~/Content/img/computer.jpeg" alt="">
+                        <div class="card-body">
+                            <h3 class="text-secondary text-center">Computer Science</h3>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+        </div>
+    </div>
+
+
+    <img class="w-100 " src="~/Content/img/school.png" />
+
+    <div class="jumbotron jumbotron-fluid mt-5">
+        <div class="container">
+            <h1 class="display-4">Help Share Discuss Grow </h1>
+            <p class="lead">Learn about anything .</p>
+            <p> Copyright &copy; 2019 Renaissance Education </p>
+        </div>
+    </div>
+
+</body>
+</html>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

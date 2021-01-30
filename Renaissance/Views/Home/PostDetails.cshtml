@@ -1,0 +1,142 @@
+﻿@model Renaissance.Models.PostView
+@{
+    ViewBag.Title = "PostDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (Session["userName"] != null)
+{
+
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>Test Ground</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    </head>
+
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+            <div class="container">
+                <a class="navbar-brand" href="@Url.Action("Homepage", "Home")">Renaissance</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="@Url.Action("Homepage", "Home")">
+                                Home
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">@Session["userName"]</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("SignOut", "Home")">sign out</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="row mt-5">
+            <div class="col-lg-1 col-xs-12">
+            </div>
+
+            <div class="col-lg-8 col-xs-12">
+                <h1 class="mt-4">@ViewBag.title</h1>
+                <!-- Author -->
+                <p class="lead">
+                    by
+                    <a href="#">@ViewBag.bloggerName</a>
+                </p>
+                <hr>
+                <!-- Date/Time -->
+                <p>Posted on @ViewBag.creationDate</p>
+                <hr>
+                <!-- Post Content -->
+                <p>@ViewBag.postdetails</p>
+                <hr>
+                <div class="card my-4">
+                    <h5 class="card-header">Leave a Comment:</h5>
+                    <div class="card-body">
+
+                        @using (Html.BeginForm("PostComment", "Home", new { id = @ViewBag.postId }, FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+
+
+                            <div class="form-group">
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.CommentBody, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.CommentBody, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <input type="submit" value="Comment" class="btn" />
+                                </div>
+                            </div>
+                            
+
+
+                        }
+                        
+                        
+
+                    </div>
+                </div>
+
+
+
+            </div>
+
+            <div class="col-lg-3 col-xs-12">
+                <div class="card my-4">
+                    <h5 class="card-header">Search</h5>
+                    <div class="card-body">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search for...">
+                            <span class="input-group-btn">
+                                <button class="btn btn-secondary" type="button">Go!</button>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-light border-right" id="sidebar-wrapper">
+                    <div class="list-group list-group-flush">
+                        <a href="@Url.Action("Homepage", "Home")" class="list-group-item list-group-item-action bg-light"><span>Home</span></a>
+                        <a href="@Url.Action("MakePost", "Home")" class="list-group-item list-group-item-action bg-light"><span>Write Blog</span></a>
+                        <a href="#" class="list-group-item list-group-item-action bg-light">Quiz</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="jumbotron jumbotron-fluid mt-5">
+            <div class="container">
+                <h1 class="display-4">Help Share Discuss Grow </h1>
+                <p class="lead">Learn about anything .</p>
+                <p> Copyright &copy; 2019 Renaissance Education </p>
+            </div>
+        </div>
+
+    </body>
+
+</html>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+}
+
+

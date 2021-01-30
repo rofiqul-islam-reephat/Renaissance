@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="817af1cb4e304e569c2cc0953e616559" Name="Diagram1">
+        <EntityTypeShape EntityType="EducationalDBModel.Answer" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EducationalDBModel.Question" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EducationalDBModel.User" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="EducationalDBModel.a_questionId" />
+        <AssociationConnector Association="EducationalDBModel.a_userId" />
+        <AssociationConnector Association="EducationalDBModel.q_userId" />
+        <EntityTypeShape EntityType="EducationalDBModel.Moderator" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="EducationalDBModel.Post" Width="1.5" PointX="7.375" PointY="3.75" />
+        <AssociationConnector Association="EducationalDBModel.fk_userId" />
+        <EntityTypeShape EntityType="EducationalDBModel.Comment" Width="1.5" PointX="9.625" PointY="4" />
+        <AssociationConnector Association="EducationalDBModel.c_postId" />
+        <AssociationConnector Association="EducationalDBModel.c_userId" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

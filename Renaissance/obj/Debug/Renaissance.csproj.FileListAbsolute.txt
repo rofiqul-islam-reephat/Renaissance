@@ -1,0 +1,412 @@
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Renaissance.dll.config
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Renaissance.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Renaissance.pdb
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\csc.exe
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\csc.exe.config
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\csc.rsp
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\csi.exe
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\csi.exe.config
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\csi.rsp
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.AppContext.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Console.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.IO.Compression.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Security.Claims.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.ValueTuple.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\vbc.exe
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\vbc.exe.config
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\vbc.rsp
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\VBCSCompiler.exe
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Antlr3.Runtime.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Newtonsoft.Json.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.Helpers.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.Mvc.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.Optimization.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.Razor.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.WebPages.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.WebPages.Razor.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\WebGrease.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.Helpers.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.Mvc.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.Optimization.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.Razor.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.WebPages.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Web.WebPages.Razor.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Newtonsoft.Json.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Antlr3.Runtime.pdb
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\obj\Debug\Renaissance.csprojAssemblyReference.cache
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\obj\Debug\Renaissance.csproj.CoreCompileInputs.cache
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\obj\Debug\Renaissance.csproj.CopyComplete
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\obj\Debug\Renaissance.dll
+C:\Users\rafiq\source\repos\Renaissance\Renaissance\obj\Debug\Renaissance.pdb
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Renaissance.dll.config
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Renaissance.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Renaissance.pdb
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.exe
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.exe.config
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.rsp
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.exe
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.exe.config
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.rsp
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.AppContext.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Collections.Immutable.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Console.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Compression.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.FileSystem.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Pipes.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Reflection.Metadata.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.AccessControl.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Claims.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Principal.Windows.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.ValueTuple.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XPath.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.exe
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.exe.config
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.rsp
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\VBCSCompiler.exe
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\roslyn\VBCSCompiler.exe.config
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Antlr3.Runtime.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Microsoft.Web.Infrastructure.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Newtonsoft.Json.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Diagnostics.DiagnosticSource.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.Helpers.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.Mvc.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.Optimization.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.Razor.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Deployment.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Razor.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\WebGrease.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.Helpers.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.Mvc.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.Optimization.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.Razor.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Deployment.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Razor.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Newtonsoft.Json.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Antlr3.Runtime.pdb
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\System.Diagnostics.DiagnosticSource.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csprojAssemblyReference.cache
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csproj.CoreCompileInputs.cache
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csproj.CopyComplete
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.dll
+E:\AUST Materials\3.2\SD\Project Update\PU-2\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.pdb
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Renaissance.dll.config
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Renaissance.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Renaissance.pdb
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.exe
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.exe.config
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.rsp
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.exe
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.exe.config
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.rsp
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.Managed.Core.targets
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.AppContext.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Collections.Immutable.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Console.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Compression.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.FileSystem.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Pipes.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Reflection.Metadata.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.AccessControl.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Claims.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Principal.Windows.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.ValueTuple.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XmlDocument.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XPath.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.exe
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.exe.config
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.rsp
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\VBCSCompiler.exe
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\roslyn\VBCSCompiler.exe.config
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Antlr3.Runtime.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Microsoft.Web.Infrastructure.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Newtonsoft.Json.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Diagnostics.DiagnosticSource.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.Helpers.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.Mvc.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.Optimization.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.Razor.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Deployment.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Razor.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\WebGrease.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.Helpers.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.Mvc.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.Optimization.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.Razor.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Deployment.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Razor.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Newtonsoft.Json.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Antlr3.Runtime.pdb
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\System.Diagnostics.DiagnosticSource.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csprojAssemblyReference.cache
+G:\C# projects\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csproj.CoreCompileInputs.cache
+G:\C# projects\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csproj.CopyComplete
+G:\C# projects\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.pdb
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\EntityFramework.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\EntityFramework.SqlServer.dll
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\EntityFramework.xml
+G:\C# projects\Renaissance\Renaissance\Renaissance\bin\EntityFramework.SqlServer.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Renaissance.dll.config
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Renaissance.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Renaissance.pdb
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.exe
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.exe.config
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.rsp
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.exe
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.exe.config
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.rsp
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.AppContext.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Collections.Immutable.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Console.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Compression.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.FileSystem.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Pipes.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Reflection.Metadata.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.AccessControl.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Claims.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Principal.Windows.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.ValueTuple.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XmlDocument.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XPath.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.exe
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.exe.config
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.rsp
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\VBCSCompiler.exe
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\roslyn\VBCSCompiler.exe.config
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Antlr3.Runtime.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\EntityFramework.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\EntityFramework.SqlServer.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Microsoft.Web.Infrastructure.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Newtonsoft.Json.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Diagnostics.DiagnosticSource.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.Helpers.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.Mvc.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.Optimization.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.Razor.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Deployment.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Razor.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\WebGrease.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\EntityFramework.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\EntityFramework.SqlServer.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.Helpers.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.Mvc.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.Optimization.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.Razor.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Deployment.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Razor.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Newtonsoft.Json.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Antlr3.Runtime.pdb
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\System.Diagnostics.DiagnosticSource.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csprojAssemblyReference.cache
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csproj.CoreCompileInputs.cache
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csproj.CopyComplete
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.dll
+E:\C# asp.net files\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.pdb
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Renaissance.dll.config
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Renaissance.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Renaissance.pdb
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.exe
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.exe.config
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\csc.rsp
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.exe
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.exe.config
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\csi.rsp
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.AppContext.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Collections.Immutable.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Console.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Compression.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.FileSystem.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.IO.Pipes.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Reflection.Metadata.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.AccessControl.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Claims.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Security.Principal.Windows.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.ValueTuple.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XPath.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.exe
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.exe.config
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\vbc.rsp
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\VBCSCompiler.exe
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\roslyn\VBCSCompiler.exe.config
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Antlr3.Runtime.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\EntityFramework.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\EntityFramework.SqlServer.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Microsoft.Web.Infrastructure.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Newtonsoft.Json.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Diagnostics.DiagnosticSource.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.Helpers.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.Mvc.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.Optimization.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.Razor.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Deployment.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Razor.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\WebGrease.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\EntityFramework.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\EntityFramework.SqlServer.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.Helpers.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.Mvc.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.Optimization.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.Razor.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Deployment.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Web.WebPages.Razor.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Newtonsoft.Json.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Antlr3.Runtime.pdb
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\System.Diagnostics.DiagnosticSource.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csprojAssemblyReference.cache
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csproj.CoreCompileInputs.cache
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.csproj.CopyComplete
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.dll
+E:\AUST Materials\3.2\SD\Project Update\Renaissance\Renaissance\Renaissance\obj\Debug\Renaissance.pdb

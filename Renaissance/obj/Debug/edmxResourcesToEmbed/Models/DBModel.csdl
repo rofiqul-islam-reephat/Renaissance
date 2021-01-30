@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EducationalDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Answer">
+    <Key>
+      <PropertyRef Name="answerId" />
+    </Key>
+    <Property Name="answerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userId" Type="Int32" Nullable="false" />
+    <Property Name="questionId" Type="Int32" Nullable="false" />
+    <Property Name="status" Type="Boolean" />
+    <NavigationProperty Name="Question" Relationship="EducationalDBModel.a_questionId" FromRole="Answer" ToRole="Question" />
+    <NavigationProperty Name="User" Relationship="EducationalDBModel.a_userId" FromRole="Answer" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Question">
+    <Key>
+      <PropertyRef Name="questionId" />
+    </Key>
+    <Property Name="questionId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userId" Type="Int32" Nullable="false" />
+    <Property Name="Body" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Tag" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Answer" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Options" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="status" Type="Boolean" />
+    <NavigationProperty Name="Answers" Relationship="EducationalDBModel.a_questionId" FromRole="Question" ToRole="Answer" />
+    <NavigationProperty Name="User" Relationship="EducationalDBModel.q_userId" FromRole="Question" ToRole="User" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="userId" />
+    </Key>
+    <Property Name="userId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="institute" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Answers" Relationship="EducationalDBModel.a_userId" FromRole="User" ToRole="Answer" />
+    <NavigationProperty Name="Questions" Relationship="EducationalDBModel.q_userId" FromRole="User" ToRole="Question" />
+    <NavigationProperty Name="Posts" Relationship="EducationalDBModel.fk_userId" FromRole="User" ToRole="Post" />
+    <NavigationProperty Name="Comments" Relationship="EducationalDBModel.c_userId" FromRole="User" ToRole="Comment" />
+  </EntityType>
+  <EntityContainer Name="dbModels" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Answers" EntityType="Self.Answer" />
+    <EntitySet Name="Questions" EntityType="Self.Question" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="a_questionId" Association="EducationalDBModel.a_questionId">
+      <End Role="Question" EntitySet="Questions" />
+      <End Role="Answer" EntitySet="Answers" />
+    </AssociationSet>
+    <AssociationSet Name="a_userId" Association="EducationalDBModel.a_userId">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Answer" EntitySet="Answers" />
+    </AssociationSet>
+    <AssociationSet Name="q_userId" Association="EducationalDBModel.q_userId">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Question" EntitySet="Questions" />
+    </AssociationSet>
+    <EntitySet Name="Moderators" EntityType="EducationalDBModel.Moderator" />
+    <EntitySet Name="Posts" EntityType="EducationalDBModel.Post" />
+    <AssociationSet Name="fk_userId" Association="EducationalDBModel.fk_userId">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Post" EntitySet="Posts" />
+    </AssociationSet>
+    <EntitySet Name="Comments" EntityType="EducationalDBModel.Comment" />
+    <AssociationSet Name="c_postId" Association="EducationalDBModel.c_postId">
+      <End Role="Post" EntitySet="Posts" />
+      <End Role="Comment" EntitySet="Comments" />
+    </AssociationSet>
+    <AssociationSet Name="c_userId" Association="EducationalDBModel.c_userId">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Comment" EntitySet="Comments" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="a_questionId">
+    <End Type="EducationalDBModel.Question" Role="Question" Multiplicity="1" />
+    <End Type="EducationalDBModel.Answer" Role="Answer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Question">
+        <PropertyRef Name="questionId" />
+      </Principal>
+      <Dependent Role="Answer">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="a_userId">
+    <End Type="EducationalDBModel.User" Role="User" Multiplicity="1" />
+    <End Type="EducationalDBModel.Answer" Role="Answer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="userId" />
+      </Principal>
+      <Dependent Role="Answer">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="q_userId">
+    <End Type="EducationalDBModel.User" Role="User" Multiplicity="1" />
+    <End Type="EducationalDBModel.Question" Role="Question" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="userId" />
+      </Principal>
+      <Dependent Role="Question">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Moderator">
+    <Key>
+      <PropertyRef Name="moderatorId" />
+    </Key>
+    <Property Name="moderatorId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="email" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="postId" />
+    </Key>
+    <Property Name="postId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userId" Type="Int32" Nullable="false" />
+    <Property Name="body" Type="String" Nullable="false" MaxLength="3000" FixedLength="false" Unicode="false" />
+    <Property Name="tag" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="title" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="creationDate" Type="DateTime" Precision="3" />
+    <Property Name="status" Type="Boolean" />
+    <NavigationProperty Name="User" Relationship="EducationalDBModel.fk_userId" FromRole="Post" ToRole="User" />
+    <NavigationProperty Name="Comments" Relationship="EducationalDBModel.c_postId" FromRole="Post" ToRole="Comment" />
+  </EntityType>
+  <Association Name="fk_userId">
+    <End Type="EducationalDBModel.User" Role="User" Multiplicity="1" />
+    <End Type="EducationalDBModel.Post" Role="Post" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="userId" />
+      </Principal>
+      <Dependent Role="Post">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Comment">
+    <Key>
+      <PropertyRef Name="commentId" />
+    </Key>
+    <Property Name="commentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PostId" Type="Int32" Nullable="false" />
+    <Property Name="userId" Type="Int32" Nullable="false" />
+    <Property Name="creationDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Post" Relationship="EducationalDBModel.c_postId" FromRole="Comment" ToRole="Post" />
+    <NavigationProperty Name="User" Relationship="EducationalDBModel.c_userId" FromRole="Comment" ToRole="User" />
+    <Property Name="commentBody" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="c_postId">
+    <End Type="EducationalDBModel.Post" Role="Post" Multiplicity="1" />
+    <End Type="EducationalDBModel.Comment" Role="Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Post">
+        <PropertyRef Name="postId" />
+      </Principal>
+      <Dependent Role="Comment">
+        <PropertyRef Name="PostId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="c_userId">
+    <End Type="EducationalDBModel.User" Role="User" Multiplicity="1" />
+    <End Type="EducationalDBModel.Comment" Role="Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="userId" />
+      </Principal>
+      <Dependent Role="Comment">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
